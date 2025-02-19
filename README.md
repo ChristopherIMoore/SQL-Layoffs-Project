@@ -1,4 +1,4 @@
-##**MySQL Data Cleaning Project**
+## **MySQL Data Cleaning Project**
 
 ## Aim of Project
 * Clean the dataset so it can be analysed
