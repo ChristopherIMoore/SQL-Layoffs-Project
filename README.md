@@ -1,2 +1,2 @@
-<ins>**MySQL Data Cleaning Project**</ins>
-
+**MySQL Data Cleaning Project**
+<ins>                                                                                                                           </ins>
