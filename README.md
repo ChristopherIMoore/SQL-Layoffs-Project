@@ -1,10 +1,10 @@
-### MySQL Data Cleaning Project
+# MySQL Data Cleaning Project
 
 ## Aim of Project
 * Clean the dataset so it can be analysed
 * Create a Power BI visulisation using the cleaned data after analysis
 
-# Context
+### Context
 As covid hit the world in early 2020 there was a sharp increase in the amount of layoffs in a lot of industry's. This dataset was made to track that information and help the Kaggle community analyse the contents to find helpful perspectives.
 
 ## Cleaning the data
