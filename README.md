@@ -9,7 +9,7 @@ As covid hit the world in early 2020 there was a sharp increase in the amount of
 
 ## Cleaning the data
 * Company has entries with spaces so needs to be trimmed
-* NULL and blank values present
+* NULL and blank values present that need to be removed
 * Date column is a text value rather than date
 
 ## Analysing the data
